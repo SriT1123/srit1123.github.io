@@ -22,9 +22,9 @@ button {
 	--avatar-size: 32px;
 	--background-image: url('https://wallpapercave.com/wp/wp8771727.jpg');
 	--home-image: url('https://wallpapercave.com/wp/wp8771727.jpg');
-	--background-solid: #32a852;
-	--background-solid-dark: #32a852;
-	--background-solid-darker: #32a852;
+	--background-solid: #222423;
+	--background-solid-dark: #151715;
+	--background-solid-darker: #0c0d0c;
 	--accent: 37, 172, 232;
 	--accent-alt: 29, 101, 134;
 	--black: 0, 0, 0;

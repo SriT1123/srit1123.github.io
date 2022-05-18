@@ -774,3 +774,12 @@ div[class^="splashBackground"] img {
 	background-position: var(--user-popout-position, center) center;
 	background-image: var(--user-background);
 }
+
+
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
+/* optionally adjust background brightness (0: original image, 1: black) */
+.layers-20RVFW {
+  background: rgba(0,0,0, 0.3) !important;
+}

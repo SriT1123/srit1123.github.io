@@ -130,7 +130,7 @@ div[class*="typeWindows-"]::after {
 	left: 0;
 	width: 100%;
 	height: 30px;
-	background: rgba(var(--black), 0.85);
+	background: rgba(var(--black), 0.15);
 	z-index: -1;
 }
 
@@ -226,7 +226,7 @@ div[data-list-item-id="guildsnav___guild-discover-button"]:hover {
 div[class^="sidebar-"] nav,
 #private-channels {
 	background-color: transparent;
-	--background-tertiary: rgba(var(--black), 0.35);
+	--background-tertiary: rgba(var(--black), 0.15);
 }
 
 div[class^="sidebar-"]>nav>div[class^="searchBar"] {
